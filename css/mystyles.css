@@ -1,0 +1,25 @@
+ol{
+    font-size: 22px;
+    text-decoration: none;
+    font-weight: none;
+    color: black
+
+}
+
+ul{
+    color: gray;
+    font-size: 20px;
+}
+
+.words{
+    font-size: 40px;
+    color:rgb(6, 66, 6)
+}
+
+.asdf{
+    color: white;
+    font-weight: 300;
+    background-color:rgb(6, 66, 6);
+    padding: 10px;
+    overflow: hidden;
+}
